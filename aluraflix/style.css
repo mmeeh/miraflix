@@ -1,0 +1,30 @@
+body {
+    color:rgb(0, 0, 0);
+    background:rgb(107, 6, 6);
+    font-family: "Matemasie", sans-serif;
+    font-family: "Poppins", sans-serif;
+}
+
+header{
+    border-bottom: solid 5px black;
+    padding: 20px;
+    font-size: 32px
+}
+
+
+section{
+    background:rgb(81, 3, 3);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.chamada-texto{
+    margin-right: 5%;
+}
+
+img {
+    height: 200px
+}
